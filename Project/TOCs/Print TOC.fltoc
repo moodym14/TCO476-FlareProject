@@ -35,7 +35,7 @@
     PageType="firstright" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoAttractions.htm"
+    Link="/Content/PTCAttractions.htm"
     BreakType="chapter"
     StartSection="false"
     PageNumberReset="continue"

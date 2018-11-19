@@ -6,7 +6,7 @@
     Link="/Content/WhyPickPeachtree.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoAttractions.htm"></TocEntry>
+    Link="/Content/PTCAttractions.htm"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/SanDiegoCuisine.htm">
