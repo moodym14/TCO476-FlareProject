@@ -3,7 +3,6 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/PrintOnlyTopics/TitlePage.htm"
     BreakType="pageLayout"
     StartSection="false"
     PageLayout="/Content/Resources/PageLayouts/Title.flpgl" />
