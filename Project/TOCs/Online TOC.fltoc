@@ -3,18 +3,17 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/WhyPickPeachtree.htm" />
+    Link="/Content/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Peachtree City"
+    Link="/Content/PeachtreeCity.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/PTCAttractions.htm"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoCuisine.htm">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/GolfCarts.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Dining.htm" />
-  </TocEntry>
+    Link="/Content/GolfCarts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Dining.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>

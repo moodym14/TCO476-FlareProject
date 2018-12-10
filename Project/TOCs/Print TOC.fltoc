@@ -3,9 +3,7 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    BreakType="pageLayout"
-    StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Title.flpgl" />
+    Link="/Content/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/PrintOnlyTopics/Copyright.htm"
@@ -19,8 +17,8 @@
     StartSection="false"
     PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/WhyPickPeachtree.htm"
+    Title="Peachtree City"
+    Link="/Content/PeachtreeCity.htm"
     BreakType="chapter"
     StartSection="false"
     PageNumberReset="continue"
@@ -42,19 +40,10 @@
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoCuisine.htm"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageType="firstright"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/GolfCarts.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Dining.htm" />
-  </TocEntry>
+    Link="/Content/Dining.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/GolfCarts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/PrintOnlyTopics/Resources.htm"
